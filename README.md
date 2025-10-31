@@ -9,6 +9,15 @@ Vulnerability Analyst focused on ethical hacking and penetration testing. Curren
 
 ---
 
+### [SETUP]
+
+My working environment:
+* **OS:** Kali Linux (Primary) / Windows 11 Pro (Host)
+* **VM:** VirtualBox
+* **Hardware:** Ryzen 7 5700x / 32GB RAM / NVIDIA RTX 3060ti
+
+---
+
 ### [CONNECT]
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-darkblue?style=for-the-badge&logo=hackerone)](https://hackerone.com/0xhfernandes)
