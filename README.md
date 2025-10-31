@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Henrique Fernandes👋
 
-<!--
-**0xhfernandes/0xhfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+Entusiasta de Cibersegurança focado em Ethical Hacking e pesquisa de vulnerabilidades. 
 
-Here are some ideas to get you started:
+Atualmente, estou me dedicando aos estudos para obter as seguintes certificações:
+* **CompTIA Security+**
+* **CompTIA PenTest+**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Minha Jornada em Bug Bounty
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-darkblue?style=for-the-badge&logo=hackerone)](https://hackerone.com/0xhfernandes)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-red?style=for-the-badge&logo=bugcrowd)](https://bugcrowd.com/0xhfernandes)
+
+---
+
+### 📬 Como me encontrar
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xhfernandes@protonmail.com)
