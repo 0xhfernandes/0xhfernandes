@@ -1,21 +1,32 @@
-# Olá, eu sou Henrique Fernandes👋
+# Henrique Fernandes
 
-### 🚀 Sobre Mim
-Entusiasta de Cibersegurança focado em Ethical Hacking e pesquisa de vulnerabilidades. 
-
-Atualmente, estou me dedicando aos estudos para obter as seguintes certificações:
-* **CompTIA Security+**
-* **CompTIA PenTest+**
+> *| Security Researcher & Ethical Hacker |*
 
 ---
 
-### 🎯 Minha Jornada em Bug Bounty
+### 🔍 Focus & Expertise
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-darkblue?style=for-the-badge&logo=hackerone)](https://hackerone.com/0xhfernandes)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-red?style=for-the-badge&logo=bugcrowd)](https://bugcrowd.com/0xhfernandes)
+Enthusiast and professional in training, focused on **Ethical Hacking**, **vulnerability research**, and offensive security.
+
+I am currently dedicating myself to the following certifications:
+* **CompTIA Security+** (Security Fundamentals)
+* **CompTIA PenTest+** (Penetration Testing)
 
 ---
 
-### 📬 Como me encontrar
+### 🛡️ Bug Bounty & Achievements
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xhfernandes@protonmail.com)
+My security journey is complemented by active participation in Bug Bounty platforms, where I hunt for flaws in live environments.
+
+| Platform | Profile |
+| :---: | :---: |
+| [![HackerOne](https://img.shields.io/badge/HackerOne-darkblue?style=for-the-badge&logo=hackerone)](https://hackerone.com/0xhfernandes) | `0xhfernandes` |
+| [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-red?style=for-the-badge&logo=bugcrowd)](https://bugcrowd.com/0xhfernandes) | `0xhfernandes` |
+
+---
+
+### ✉️ Contact
+
+*Reach out for collaborations, projects, or knowledge exchange.*
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:0xhfernandes@protonmail.com)
